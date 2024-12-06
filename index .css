@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+}
+
+.nav_bars{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    background: #444;
+    padding: 10px;
+}
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+header, footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
